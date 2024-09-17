@@ -1,4 +1,5 @@
 Hi, I'm Mohit Garg! 👋
+
 🚀 Full Stack Developer with a passion for MERN stack development and RHCSA certified.
 🎥 Sharing my journey and tips on web development, MERN stack, linux and tech trends on YouTube
 💻 #codinginpublic in my digital space here
